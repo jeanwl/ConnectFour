@@ -1,6 +1,6 @@
 Live site: https://jeanwll.github.io/ConnectFour/
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 # Frontend Mentor - Connect Four game solution
 
