@@ -1,6 +1,6 @@
 Live site: https://jeanwll.github.io/ConnectFour/
 
-![](./screenshot.png)
+![](./screenshot1.png)
 
 # Frontend Mentor - Connect Four game solution
 
@@ -157,4 +157,4 @@ We could use the same submenu to select either "Local PVP" or "Online PVP".
 ## Author
 
 - Website - [Jean Will](https://jeanwill.me)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/jeanwll)
+- Frontend Mentor - [@jeanwll](https://www.frontendmentor.io/profile/jeanwll)
